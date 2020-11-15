@@ -1,1 +1,1 @@
-# Matrix_multiplication
+Simple application for matrix multiplication
